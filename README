@@ -1,0 +1,7 @@
+Using Arduino to control LEDs using the TI TLC59116
+Written by Peter Easton (whizoo.com 2013)
+Distributed under Open Software License v3.0
+
+Datasheet for TI's TLC59116:
+http://www.ti.com/lit/ds/symlink/tlc59116f.pdf
+
